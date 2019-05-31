@@ -1,0 +1,9 @@
+Z:\Seg mód\LPII\ProjetoAgenda\Agnd\Agnd\bin\Debug\Agnd.exe.config
+Z:\Seg mód\LPII\ProjetoAgenda\Agnd\Agnd\bin\Debug\Agnd.exe
+Z:\Seg mód\LPII\ProjetoAgenda\Agnd\Agnd\bin\Debug\Agnd.pdb
+Z:\Seg mód\LPII\ProjetoAgenda\Agnd\Agnd\obj\Debug\Agnd.csprojResolveAssemblyReference.cache
+Z:\Seg mód\LPII\ProjetoAgenda\Agnd\Agnd\obj\Debug\Agnd.FrmPrincipal.resources
+Z:\Seg mód\LPII\ProjetoAgenda\Agnd\Agnd\obj\Debug\Agnd.Properties.Resources.resources
+Z:\Seg mód\LPII\ProjetoAgenda\Agnd\Agnd\obj\Debug\Agnd.csproj.GenerateResource.Cache
+Z:\Seg mód\LPII\ProjetoAgenda\Agnd\Agnd\obj\Debug\Agnd.exe
+Z:\Seg mód\LPII\ProjetoAgenda\Agnd\Agnd\obj\Debug\Agnd.pdb

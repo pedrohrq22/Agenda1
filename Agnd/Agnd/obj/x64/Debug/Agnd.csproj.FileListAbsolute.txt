@@ -1,0 +1,42 @@
+C:\Users\leomar_000469\Desktop\Agnd\Agnd\bin\x64\Debug\Agnd.exe.config
+C:\Users\leomar_000469\Desktop\Agnd\Agnd\bin\x64\Debug\Agnd.exe
+C:\Users\leomar_000469\Desktop\Agnd\Agnd\bin\x64\Debug\Agnd.pdb
+C:\Users\leomar_000469\Desktop\Agnd\Agnd\obj\x64\Debug\Agnd.FrmPrincipal.resources
+C:\Users\leomar_000469\Desktop\Agnd\Agnd\obj\x64\Debug\Agnd.frmCompleto.resources
+C:\Users\leomar_000469\Desktop\Agnd\Agnd\obj\x64\Debug\Agnd.Properties.Resources.resources
+C:\Users\leomar_000469\Desktop\Agnd\Agnd\obj\x64\Debug\Agnd.csproj.GenerateResource.Cache
+C:\Users\leomar_000469\Desktop\Agnd\Agnd\obj\x64\Debug\Agnd.exe
+C:\Users\leomar_000469\Desktop\Agnd\Agnd\obj\x64\Debug\Agnd.pdb
+Z:\Segundo mód\LPII\ProjetoAgenda\FuncinandoProfessorRevisou\Agnd\Agnd\bin\x64\Debug\Agnd.exe.config
+Z:\Segundo mód\LPII\ProjetoAgenda\FuncinandoProfessorRevisou\Agnd\Agnd\obj\x64\Debug\Agnd.exe
+Z:\Segundo mód\LPII\ProjetoAgenda\FuncinandoProfessorRevisou\Agnd\Agnd\obj\x64\Debug\Agnd.pdb
+Z:\Segundo mód\LPII\ProjetoAgenda\FuncinandoProfessorRevisou\Agnd\Agnd\bin\x64\Debug\Agnd.exe
+Z:\Segundo mód\LPII\ProjetoAgenda\FuncinandoProfessorRevisou\Agnd\Agnd\bin\x64\Debug\Agnd.pdb
+Z:\Segundo mód\LPII\ProjetoAgenda\FuncinandoProfessorRevisou\Agnd\Agnd\obj\x64\Debug\Agnd.csprojResolveAssemblyReference.cache
+Z:\Segundo mód\LPII\ProjetoAgenda\FuncinandoProfessorRevisou\Agnd\Agnd\obj\x64\Debug\Agnd.FrmPrincipal.resources
+Z:\Segundo mód\LPII\ProjetoAgenda\FuncinandoProfessorRevisou\Agnd\Agnd\obj\x64\Debug\Agnd.frmCompleto.resources
+Z:\Segundo mód\LPII\ProjetoAgenda\FuncinandoProfessorRevisou\Agnd\Agnd\obj\x64\Debug\Agnd.Properties.Resources.resources
+Z:\Segundo mód\LPII\ProjetoAgenda\FuncinandoProfessorRevisou\Agnd\Agnd\obj\x64\Debug\Agnd.csproj.GenerateResource.Cache
+C:\Users\pedro_000\Documents\0000_FuncinandoProfessorRevisou\Agnd\Agnd\bin\x64\Debug\Agnd.exe.config
+C:\Users\pedro_000\Documents\0000_FuncinandoProfessorRevisou\Agnd\Agnd\obj\x64\Debug\Agnd.exe
+C:\Users\pedro_000\Documents\0000_FuncinandoProfessorRevisou\Agnd\Agnd\obj\x64\Debug\Agnd.pdb
+C:\Users\pedro_000\Documents\000_Agnd\Agnd\Agnd\bin\x64\Debug\Agnd.exe.config
+C:\Users\pedro_000\Documents\000_Agnd\Agnd\Agnd\obj\x64\Debug\Agnd.exe
+C:\Users\pedro_000\Documents\000_Agnd\Agnd\Agnd\obj\x64\Debug\Agnd.pdb
+C:\Users\pedro_000\Documents\000_Agnd\Agnd\Agnd\bin\x64\Debug\Agnd.exe
+C:\Users\pedro_000\Documents\000_Agnd\Agnd\Agnd\bin\x64\Debug\Agnd.pdb
+C:\Users\pedro_000\Documents\000_Agnd\Agnd\Agnd\obj\x64\Debug\Agnd.csprojResolveAssemblyReference.cache
+C:\Users\pedro_000\Documents\000_Agnd\Agnd\Agnd\obj\x64\Debug\Agnd.FrmPrincipal.resources
+C:\Users\pedro_000\Documents\000_Agnd\Agnd\Agnd\obj\x64\Debug\Agnd.frmCompleto.resources
+C:\Users\pedro_000\Documents\000_Agnd\Agnd\Agnd\obj\x64\Debug\Agnd.Properties.Resources.resources
+C:\Users\pedro_000\Documents\000_Agnd\Agnd\Agnd\obj\x64\Debug\Agnd.csproj.GenerateResource.Cache
+C:\Users\pedro_000\Documents\Projeto_Agnd\Agnd\Agnd\bin\x64\Debug\Agnd.exe.config
+C:\Users\pedro_000\Documents\Projeto_Agnd\Agnd\Agnd\obj\x64\Debug\Agnd.exe
+C:\Users\pedro_000\Documents\Projeto_Agnd\Agnd\Agnd\obj\x64\Debug\Agnd.pdb
+C:\Users\pedro_000\Documents\Projeto_Agnd\Agnd\Agnd\bin\x64\Debug\Agnd.exe
+C:\Users\pedro_000\Documents\Projeto_Agnd\Agnd\Agnd\bin\x64\Debug\Agnd.pdb
+C:\Users\pedro_000\Documents\Projeto_Agnd\Agnd\Agnd\obj\x64\Debug\Agnd.csprojResolveAssemblyReference.cache
+C:\Users\pedro_000\Documents\Projeto_Agnd\Agnd\Agnd\obj\x64\Debug\Agnd.FrmPrincipal.resources
+C:\Users\pedro_000\Documents\Projeto_Agnd\Agnd\Agnd\obj\x64\Debug\Agnd.frmCompleto.resources
+C:\Users\pedro_000\Documents\Projeto_Agnd\Agnd\Agnd\obj\x64\Debug\Agnd.Properties.Resources.resources
+C:\Users\pedro_000\Documents\Projeto_Agnd\Agnd\Agnd\obj\x64\Debug\Agnd.csproj.GenerateResource.Cache

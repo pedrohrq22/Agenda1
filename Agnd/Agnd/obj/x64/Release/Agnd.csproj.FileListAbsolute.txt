@@ -1,0 +1,15 @@
+Z:\Seg mód\LPII\ProjetoAgenda\Agnd\Agnd\bin\x64\Release\Agnd.exe.config
+Z:\Seg mód\LPII\ProjetoAgenda\Agnd\Agnd\bin\x64\Release\Agnd.exe
+Z:\Seg mód\LPII\ProjetoAgenda\Agnd\Agnd\obj\x64\Release\Agnd.csprojResolveAssemblyReference.cache
+Z:\Seg mód\LPII\ProjetoAgenda\Agnd\Agnd\obj\x64\Release\Agnd.FrmPrincipal.resources
+Z:\Seg mód\LPII\ProjetoAgenda\Agnd\Agnd\obj\x64\Release\Agnd.frmCompleto.resources
+Z:\Seg mód\LPII\ProjetoAgenda\Agnd\Agnd\obj\x64\Release\Agnd.Properties.Resources.resources
+Z:\Seg mód\LPII\ProjetoAgenda\Agnd\Agnd\obj\x64\Release\Agnd.csproj.GenerateResource.Cache
+Z:\Seg mód\LPII\ProjetoAgenda\Agnd\Agnd\obj\x64\Release\Agnd.exe
+C:\Users\leomar_000469\Desktop\Agnd\Agnd\bin\x64\Release\Agnd.exe.config
+C:\Users\leomar_000469\Desktop\Agnd\Agnd\bin\x64\Release\Agnd.exe
+C:\Users\leomar_000469\Desktop\Agnd\Agnd\obj\x64\Release\Agnd.FrmPrincipal.resources
+C:\Users\leomar_000469\Desktop\Agnd\Agnd\obj\x64\Release\Agnd.frmCompleto.resources
+C:\Users\leomar_000469\Desktop\Agnd\Agnd\obj\x64\Release\Agnd.Properties.Resources.resources
+C:\Users\leomar_000469\Desktop\Agnd\Agnd\obj\x64\Release\Agnd.csproj.GenerateResource.Cache
+C:\Users\leomar_000469\Desktop\Agnd\Agnd\obj\x64\Release\Agnd.exe
